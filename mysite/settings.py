@@ -25,7 +25,7 @@ SECRET_KEY = 'mul0py6d3p-eu(7tz91uaufpsg2_%5jzal58tg*bl)0wea=ldr'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['estherrr.pythonanywhere.com']
+ALLOWED_HOSTS = ['localhost', '127.0.0.1', '[::1]', 'estherrr.pythonanywhere.org']
 
 
 # Application definition
